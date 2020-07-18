@@ -1,6 +1,8 @@
 # vue-vant
 
-利用 vue、vant 搭建的web页面
+利用 vue、vant 搭建的web页面框架 
+
+一个移动商城
 
 
 > A Vue.js project
